@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Nowy artykuł 1",
+    "date": "2025-05-11",
+    "link": "https://example.com/article1",
+    "description": "Krótki opis artykułu 1."
+  },
+  {
+    "title": "Nowy artykuł 2",
+    "date": "2025-05-10",
+    "link": "https://example.com/article2",
+    "description": "Krótki opis artykułu 2."
+  },
+  {
+    "title": "Nowy artykuł 3",
+    "date": "2025-05-09",
+    "link": "https://example.com/article3",
+    "description": "Krótki opis artykułu 3."
+  }
+]

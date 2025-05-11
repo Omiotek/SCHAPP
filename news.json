@@ -3,21 +3,21 @@
     "title": "Konferencja CHIB",
     "date": "2025-05-11",
     "link": "https://example.com/article1",
-    "description": "Krótki opis artykułu 1.",
+    "excerpt": "Krótki opis artykułu 1.",
     "image": "http://mokotow.schpulawska.pl/wp-content/uploads/2025/05/my-square.jpg"
   },
   {
     "title": "Przygotowania do chrztu",
     "date": "2025-05-10",
     "link": "https://example.com/article2",
-    "description": "Krótki opis artykułu 2.",
+    "excerpt": "Krótki opis artykułu 2.",
     "image": "https://example.com/images/article2.jpg"
   },
   {
     "title": "Nowy artykuł 3",
     "date": "2025-05-09",
     "link": "https://example.com/article3",
-    "description": "Krótki opis artykułu 3.",
+    "excerpt": "Krótki opis artykułu 3.",
     "image": "https://example.com/images/article3.jpg"
   }
 ]
